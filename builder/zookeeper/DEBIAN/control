@@ -1,0 +1,8 @@
+Package: zookeeper
+Version: 3
+Section: misc
+Priority: extra
+Maintainer: dtulyakov
+Architecture: all
+Depends: bash
+Description: Example package with zookeeper and start script.
